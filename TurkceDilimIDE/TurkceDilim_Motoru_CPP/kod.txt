@@ -1,0 +1,11 @@
+sifre = 1234 ;
+
+EGER sifre != 0000 {
+    YAZ "Sifreniz 0000'dan farkli, guvenli sayilir!" ;
+}
+
+puan = 50 ;
+
+EGER puan >= 50 {
+    YAZ "Dersten Gectin!" ;
+}
